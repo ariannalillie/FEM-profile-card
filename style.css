@@ -64,3 +64,8 @@ span {
     right: -150px;
     z-index: -1;
 }
+
+.attribution {
+    position: fixed;
+    bottom: 30px;
+}
