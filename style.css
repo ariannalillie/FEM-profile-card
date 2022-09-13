@@ -69,3 +69,15 @@ span {
     position: fixed;
     bottom: 30px;
 }
+
+@media screen and (max-width: 400px) {
+    .card {
+        height: 50%;
+        width: 85%;
+    }
+    .attribution {
+        text-align: center;
+        width: 80%;
+    }
+}
+    
